@@ -1,0 +1,6 @@
+{
+  "name": "ShieldLance - Freelance Scam & Contract Analyzer",
+  "description": "ShieldLance helps freelancers and remote job seekers detect scams, analyze predatory contract terms, and verify client legitimacy before accepting work.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
